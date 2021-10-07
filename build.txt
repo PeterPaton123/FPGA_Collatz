@@ -1,0 +1,1 @@
+ghdl-gcc -a srlatch.vhdl dlatch.vhdl regiter.vhdl adder.vhd nbitadder.vhd leftshifter.vhd threeoner.vhd clock.vhd collatz.vhdl
